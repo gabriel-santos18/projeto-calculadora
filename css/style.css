@@ -1,0 +1,42 @@
+body {
+  background: #d9d9d9;
+}
+
+#box-container {
+  width: 290px;
+  height: 430px;
+  margin-top: 50px;
+  border-radius: 10px;
+  background: #2e2e2e;
+  box-shadow: 1px 3px 5px #000;
+}
+
+#result {
+  margin: 40px 31px;
+  width: 80%;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 3px 10px #000;
+  color: gray;
+  font-size: 1.2em;
+}
+
+button.btn {
+  margin-left: 10px;
+  margin-top: 9px;
+  margin-bottom: 1px;
+  box-shadow: 1px 1px 1px #000;
+}
+
+.btn-numbers {
+  width: 55px;
+}
+
+.btn-numbers-large {
+  width: 124px;
+}
+
+#btn-zero {
+  width: 194px;
+}
